@@ -8,6 +8,7 @@ const nextConfig = withExpo({
     "react-native",
     "expo",
     "react-native-svg",
+    "react-native-safe-area-context",
     // Add more React Native / Expo packages here...
   ],
   experimental: {
